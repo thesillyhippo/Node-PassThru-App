@@ -1,0 +1,1 @@
+This is a Node application that allows web applications to use their own domain/hostnames while allowing clients to visit other sites without leaving the domain. 
